@@ -1,0 +1,65 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 55, 103)"
+  },
+  "fonts": [
+    "sans-serif",
+    "\"Helvetica Neue LT Pro\", Helvetica, Arial, sans-serif",
+    "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "FontAwesome",
+    "khicon"
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "32px",
+    "12px",
+    "40px",
+    "13px",
+    "26px",
+    "15px",
+    "27px",
+    "34px",
+    "0px",
+    "30px",
+    "18px",
+    "20px",
+    "28px",
+    "35px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 55, 103)",
+    "rgb(255, 255, 255)",
+    "rgb(0, 174, 239)",
+    "rgb(153, 153, 153)",
+    "rgb(247, 247, 247)",
+    "rgb(250, 109, 22)",
+    "rgb(77, 114, 147)",
+    "rgb(0, 54, 101)",
+    "rgb(249, 249, 249)",
+    "rgb(12, 84, 96)",
+    "rgb(209, 236, 241)",
+    "rgb(230, 247, 254)",
+    "rgb(107, 108, 126)",
+    "rgb(204, 204, 204)",
+    "rgb(240, 240, 240)",
+    "rgb(102, 102, 102)"
+  ],
+  "layout": {
+    "divs": 317,
+    "inputs": 6,
+    "buttons": 4
+  },
+  "dom_hash": -5568548492963962425,
+  "image_hash": "81afff8181818f8f",
+  "screenshot": "data/screenshots/kh_login_1.png",
+  "logo_url": "https://www.kh.hu/o/kh-theme/images/logo.svg",
+  "logo_path": "data/screenshots/kh_login_1_logo.png",
+  "url": "https://ebank.sso.kh.hu",
+  "bank": "kh_login_1",
+  "domain": "kh",
+  "logo_hash": "818199bdbd81c3e7"
+}

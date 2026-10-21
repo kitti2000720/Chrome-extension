@@ -1,0 +1,64 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "sparkasseP1, \"sparkasseP1 Fallback\"",
+    "\"Sparkasse Medium\"",
+    "sparkasseB1, \"sparkasseB1 Fallback\"",
+    "Arial",
+    "sparkasseHead, \"sparkasseHead Fallback\"",
+    "sparkasseLight, \"sparkasseLight Fallback\"",
+    "sparkasseMedium, \"sparkasseMedium Fallback\"",
+    "monospace",
+    "sparkasseRegular, \"sparkasseRegular Fallback\"",
+    "sparkasseSerif, \"sparkasseSerif Fallback\""
+  ],
+  "font_sizes": [
+    "16px",
+    "13px",
+    "18px",
+    "36px",
+    "24px",
+    "20.5714px",
+    "42px",
+    "14px",
+    "17.1429px",
+    "15px",
+    "15.4286px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(209, 0, 0)",
+    "rgb(41, 41, 41)",
+    "rgb(238, 0, 0)",
+    "rgb(182, 0, 0)",
+    "rgba(41, 41, 41, 0.8)",
+    "rgb(68, 68, 68)",
+    "rgb(128, 128, 128)",
+    "rgb(240, 240, 240)",
+    "rgb(0, 152, 100)",
+    "rgb(241, 245, 255)",
+    "rgb(245, 245, 245)",
+    "rgb(190, 190, 190)",
+    "rgb(189, 189, 189)"
+  ],
+  "layout": {
+    "divs": 402,
+    "inputs": 1,
+    "buttons": 1
+  },
+  "dom_hash": -6851427245789931233,
+  "image_hash": "00c0f0f0f404ffff",
+  "screenshot": "data/screenshots/sparkasse_main.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/sparkasse_main_logo.png",
+  "url": "https://www.sparkasse.de",
+  "bank": "sparkasse_main",
+  "domain": "sparkasse",
+  "logo_hash": "18183c7e7e7e7e00"
+}

@@ -1,0 +1,63 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(84, 84, 84)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "sourcesanspro, Arial, Helvetica, sans-serif",
+    "Arial",
+    "\"Source Sans Pro\", Arial, Helvetica, sans-serif",
+    "montserrat, arial, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "18px",
+    "12px",
+    "14px",
+    "0px",
+    "13.3333px",
+    "24px",
+    "40px",
+    "20px",
+    "10px",
+    "32px",
+    "12.8px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(84, 84, 84)",
+    "rgb(85, 85, 85)",
+    "rgb(255, 255, 255)",
+    "rgb(1, 0, 53)",
+    "rgb(233, 4, 30)",
+    "rgb(51, 51, 51)",
+    "rgb(240, 240, 240)",
+    "rgb(216, 232, 253)",
+    "rgb(226, 1, 11)",
+    "rgb(244, 245, 246)",
+    "rgb(247, 248, 253)",
+    "rgb(34, 98, 102)",
+    "rgb(3, 62, 100)",
+    "rgb(45, 17, 60)",
+    "rgb(0, 114, 185)",
+    "rgb(195, 195, 195)",
+    "rgb(102, 102, 102)",
+    "rgba(1, 0, 53, 0.5)"
+  ],
+  "layout": {
+    "divs": 204,
+    "inputs": 3,
+    "buttons": 15
+  },
+  "dom_hash": -3971038821312103914,
+  "image_hash": "7ef8f8faf8388080",
+  "screenshot": "data/screenshots/societegenerale_main.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/societegenerale_main_logo.png",
+  "url": "https://www.societegenerale.fr",
+  "bank": "societegenerale_main",
+  "domain": "societegenerale",
+  "logo_hash": "ffcf00440101cfff"
+}

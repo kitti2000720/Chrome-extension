@@ -1,0 +1,63 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(24, 24, 24)"
+  },
+  "fonts": [
+    "NordeaSansLarge-regular, sans-serif",
+    "NordeaSansSmall, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "NordeaSansSmall",
+    "NordeaSansLarge",
+    "a",
+    "NordeaSansSmallWeb-regular, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "NordeaSansSmallWeb-medium, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "NordeaSansSmallWeb-Medium, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "Arial, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "15.04px",
+    "13.44px",
+    "39.04px",
+    "11.52px",
+    "0px",
+    "27.36px",
+    "19.2px",
+    "55.84px",
+    "22.88px",
+    "46.72px",
+    "66.72px",
+    "95.36px",
+    "12px",
+    "14px"
+  ],
+  "colors": [
+    "rgb(24, 24, 24)",
+    "rgb(255, 255, 255)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(85, 86, 91)",
+    "rgb(0, 0, 94)",
+    "rgb(255, 243, 238)",
+    "rgb(0, 0, 0)",
+    "rgb(245, 211, 204)",
+    "rgb(32, 96, 82)",
+    "rgb(192, 4, 4)",
+    "rgb(0, 0, 160)",
+    "rgb(227, 227, 227)",
+    "rgb(51, 51, 51)"
+  ],
+  "layout": {
+    "divs": 128,
+    "inputs": 4,
+    "buttons": 51
+  },
+  "dom_hash": 2150350868249535258,
+  "image_hash": "c3000303c3fff7e3",
+  "screenshot": "data/screenshots/nordea_main.png",
+  "logo_url": "https://www.nordea.com/sites/default/files/styles/hero_big/public/2026-04/q1-2026-banner-desktop-nordea.jpg.webp?itok=5GOSgW57",
+  "logo_path": "data/screenshots/nordea_main_logo.png",
+  "url": "https://www.nordea.com",
+  "bank": "nordea_main",
+  "domain": "nordea",
+  "logo_hash": "ff1600292080ffff"
+}

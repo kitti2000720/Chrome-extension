@@ -1,0 +1,50 @@
+{
+  "styles": {
+    "bg": "rgb(244, 247, 249)",
+    "color": "rgb(2, 2, 3)"
+  },
+  "fonts": [
+    "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "Inter, system-ui, -apple-system",
+    "\"Times New Roman\""
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "18px",
+    "22px",
+    "12px",
+    "28px",
+    "15px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(2, 2, 3)",
+    "rgb(244, 247, 249)",
+    "rgb(165, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(216, 223, 231)",
+    "rgb(234, 238, 243)",
+    "rgb(42, 48, 55)",
+    "rgba(0, 0, 0, 0.608)",
+    "rgb(224, 0, 0)",
+    "rgb(52, 59, 68)",
+    "rgb(38, 124, 41)",
+    "rgb(151, 166, 182)"
+  ],
+  "layout": {
+    "divs": 247,
+    "inputs": 2,
+    "buttons": 4
+  },
+  "dom_hash": -7307380632018603159,
+  "image_hash": "ff10012127f1fdf0",
+  "screenshot": "data/screenshots/kb_main.png",
+  "logo_url": "https://www.kb.cz/getmedia/20a39a52-0196-4700-8ece-6d00d356c30e/ms-Bonus_red_03-desktop-2560x144.webp?ext=.webp",
+  "logo_path": "data/screenshots/kb_main_logo.png",
+  "url": "https://www.kb.cz",
+  "bank": "kb_main",
+  "domain": "kb",
+  "logo_hash": "1f1f191919191f1f"
+}

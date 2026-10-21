@@ -1,0 +1,74 @@
+{
+  "url": "https://www.skb.si",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 14,
+      "title": 1,
+      "script": 30,
+      "link": 31,
+      "style": 7,
+      "body": 1,
+      "noscript": 1,
+      "div": 811,
+      "a": 263,
+      "span": 175,
+      "i": 11,
+      "h1": 1,
+      "h2": 15,
+      "input": 17,
+      "br": 167,
+      "strong": 20,
+      "table": 5,
+      "thead": 4,
+      "tr": 21,
+      "th": 16,
+      "td": 68,
+      "label": 3,
+      "tbody": 2,
+      "svg": 41,
+      "path": 149,
+      "form": 2,
+      "img": 52,
+      "button": 2,
+      "g": 4,
+      "defs": 2,
+      "rect": 3,
+      "clippath": 2,
+      "use": 2,
+      "b": 8,
+      "p": 5,
+      "h4": 3,
+      "circle": 2,
+      "iframe": 1
+    },
+    "maxDepth": 35,
+    "avgDepth": 21.4,
+    "ariaRoles": [
+      "presentation",
+      "slider",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.otpbanka.si/rezultati-iskanja",
+        "method": "GET"
+      },
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.otpbanka.si/rezultati-iskanja",
+        "method": "GET"
+      }
+    ],
+    "internalLinks": 223,
+    "externalLinks": 35,
+    "logoCandidate": 1,
+    "scriptCount": 30,
+    "iframeCount": 1,
+    "totalElements": 1964
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "\"DeutscheBank Regular\", Arial, clean, sans-serif",
+    "icons",
+    "\"DeutscheBank Medium\", Arial, clean, sans-serif",
+    "Arial",
+    "\"DeutscheBank Medium\""
+  ],
+  "font_sizes": [
+    "16px",
+    "15px",
+    "24px",
+    "14px",
+    "20px",
+    "22px",
+    "25px",
+    "13.3333px",
+    "9px",
+    "26px",
+    "56px",
+    "18.2px",
+    "18px",
+    "34px",
+    "9.8px",
+    "11px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(225, 225, 225)",
+    "rgb(5, 80, 209)",
+    "rgb(22, 24, 78)",
+    "rgb(240, 240, 240)",
+    "rgb(30, 42, 120)",
+    "rgb(231, 244, 254)",
+    "rgb(13, 67, 179)",
+    "rgb(201, 221, 3)",
+    "rgb(191, 213, 247)",
+    "rgb(247, 247, 247)"
+  ],
+  "layout": {
+    "divs": 314,
+    "inputs": 6,
+    "buttons": 43
+  },
+  "dom_hash": -7004267600817995905,
+  "image_hash": "003c3c3c3d3c3c7f",
+  "screenshot": "data/screenshots/deutsche_bank_main.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/deutsche_bank_main_logo.png",
+  "url": "https://www.deutsche-bank.de",
+  "bank": "deutsche_bank_main",
+  "domain": "deutsche-bank",
+  "logo_hash": "ff81858991a181ff"
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.caixabank.es",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "span": 74,
+      "head": 1,
+      "script": 61,
+      "meta": 24,
+      "link": 11,
+      "title": 1,
+      "body": 1,
+      "div": 367,
+      "p": 105,
+      "strong": 8,
+      "ul": 58,
+      "li": 200,
+      "a": 222,
+      "header": 1,
+      "button": 28,
+      "img": 94,
+      "h1": 1,
+      "style": 1,
+      "form": 3,
+      "input": 11,
+      "label": 4,
+      "nav": 1,
+      "picture": 8,
+      "svg": 4,
+      "use": 4,
+      "source": 3,
+      "h2": 14,
+      "u": 1,
+      "article": 3,
+      "h3": 22,
+      "footer": 1
+    },
+    "maxDepth": 20,
+    "avgDepth": 12.1,
+    "ariaRoles": [
+      "dialog",
+      "heading",
+      "alert",
+      "tooltip",
+      "button",
+      "main",
+      "switch",
+      "group",
+      "tablist",
+      "presentation",
+      "navigation",
+      "banner",
+      "contentinfo",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 7,
+        "hasPassword": true,
+        "action": "https://www.caixabank.es/particular/home/particulares_es.html",
+        "method": "POST"
+      },
+      {
+        "inputCount": 2,
+        "hasPassword": false,
+        "action": "https://www.caixabank.es/apl/buscador/index_es.html",
+        "method": "GET"
+      },
+      {
+        "inputCount": 2,
+        "hasPassword": false,
+        "action": "https://www.caixabank.es/apl/localizador/caixamaps/index_es.html",
+        "method": "GET"
+      }
+    ],
+    "internalLinks": 182,
+    "externalLinks": 38,
+    "logoCandidate": 0,
+    "scriptCount": 61,
+    "iframeCount": 0,
+    "totalElements": 1338
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.unicredit.it",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "title": 1,
+      "body": 1,
+      "center": 1,
+      "table": 1,
+      "tbody": 1,
+      "tr": 3,
+      "td": 2,
+      "a": 1,
+      "img": 1,
+      "b": 3,
+      "br": 4
+    },
+    "maxDepth": 8,
+    "avgDepth": 5,
+    "ariaRoles": [],
+    "formStructures": [],
+    "internalLinks": 1,
+    "externalLinks": 0,
+    "logoCandidate": 0,
+    "scriptCount": 0,
+    "iframeCount": 0,
+    "totalElements": 21
+  }
+}

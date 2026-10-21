@@ -1,0 +1,276 @@
+{
+  "_comment": "Ismert bank TLS/security-header profilok AiTM detekció céljára. A cert fingerprint-ek üresek (cert megújításkor változnak) – a kibocsátó CA ellenőrzése a fő szignál.",
+
+  "otp.hu": {
+    "brand": "OTP Bank",
+    "expected_issuer_keywords": ["digicert", "entrust", "globalsign", "quovadis"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "otpbank.hu": {
+    "brand": "OTP Bank",
+    "expected_issuer_keywords": ["digicert", "entrust", "globalsign", "quovadis"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "erstebank.hu": {
+    "brand": "Erste Bank Hungary",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "erste.hu": {
+    "brand": "Erste Bank Hungary",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "sparkasse.at": {
+    "brand": "Erste/Sparkasse Austria",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "a-trust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "erstebank.at": {
+    "brand": "Erste Bank Austria",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "a-trust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "kh.hu": {
+    "brand": "K&H Bank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "mbhbank.hu": {
+    "brand": "MBH Bank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "thawte"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "raiffeisen.hu": {
+    "brand": "Raiffeisen Bank Hungary",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "raiffeisen.at": {
+    "brand": "Raiffeisen Bank Austria",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "a-trust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "barclays.co.uk": {
+    "brand": "Barclays",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": true,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "lloydsbank.com": {
+    "brand": "Lloyds Bank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": true,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "natwest.com": {
+    "brand": "NatWest",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": true,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "deutsche-bank.de": {
+    "brand": "Deutsche Bank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "d-trust", "t-systems", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "commerzbank.de": {
+    "brand": "Commerzbank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "d-trust", "t-systems", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "sparkasse.de": {
+    "brand": "Sparkasse Germany",
+    "expected_issuer_keywords": ["digicert", "globalsign", "d-trust", "t-systems"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "santander.com": {
+    "brand": "Banco Santander",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "camerfirma"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "bbva.com": {
+    "brand": "BBVA",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "camerfirma"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "caixabank.es": {
+    "brand": "CaixaBank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "ac camerfirma"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "societegenerale.fr": {
+    "brand": "Société Générale",
+    "expected_issuer_keywords": ["digicert", "globalsign", "certigna", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "credit-agricole.fr": {
+    "brand": "Crédit Agricole",
+    "expected_issuer_keywords": ["digicert", "globalsign", "certigna", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "abnamro.nl": {
+    "brand": "ABN AMRO",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "quovadis"],
+    "hsts_required": true,
+    "csp_required": true,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "rabobank.nl": {
+    "brand": "Rabobank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "quovadis"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "nordea.com": {
+    "brand": "Nordea",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "intesasanpaolo.com": {
+    "brand": "Intesa Sanpaolo",
+    "expected_issuer_keywords": ["digicert", "globalsign", "infocert", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "unicredit.eu": {
+    "brand": "UniCredit",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "infocert"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "pekao.com.pl": {
+    "brand": "Bank Pekao",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "certum"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "pkobp.pl": {
+    "brand": "PKO Bank Polski",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "certum"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "kb.cz": {
+    "brand": "Komerční banka",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "csob.cz": {
+    "brand": "ČSOB",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "skb.si": {
+    "brand": "SKB Banka",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "ica"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "dskbank.bg": {
+    "brand": "DSK Bank",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "bawaggroup.com": {
+    "brand": "BAWAG Group",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "a-trust"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  },
+  "otp.hr": {
+    "brand": "OTP Bank Croatia",
+    "expected_issuer_keywords": ["digicert", "globalsign", "entrust", "fine"],
+    "hsts_required": true,
+    "csp_required": false,
+    "x_frame_required": true,
+    "known_fingerprints": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "styles": {
+    "bg": "rgb(0, 46, 60)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "Gotham, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "17px",
+    "15px",
+    "22px",
+    "54px",
+    "13px",
+    "42px",
+    "12.75px",
+    "32px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 46, 60)",
+    "rgb(219, 226, 229)",
+    "rgb(0, 37, 48)",
+    "rgb(16, 61, 75)",
+    "rgb(233, 237, 240)",
+    "rgb(255, 215, 0)",
+    "rgb(146, 164, 171)",
+    "rgb(80, 108, 116)",
+    "rgb(211, 224, 225)",
+    "rgb(241, 239, 237)",
+    "rgb(83, 113, 115)",
+    "rgb(45, 85, 98)"
+  ],
+  "layout": {
+    "divs": 918,
+    "inputs": 0,
+    "buttons": 29
+  },
+  "dom_hash": 658916799318637665,
+  "image_hash": "ebfa3f3c1e3c1800",
+  "screenshot": "data/screenshots/commerzbank_main.png",
+  "logo_url": "https://www.commerzbank.de/ms/media/favicons/CB-2022-Ribbon_RGB.svg",
+  "logo_path": "data/screenshots/commerzbank_main_logo.png",
+  "url": "https://www.commerzbank.de",
+  "bank": "commerzbank_main",
+  "domain": "commerzbank",
+  "logo_hash": "3c666647c3427e3c"
+}

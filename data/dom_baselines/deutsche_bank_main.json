@@ -1,0 +1,78 @@
+{
+  "url": "https://www.deutsche-bank.de",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 23,
+      "title": 1,
+      "link": 15,
+      "script": 31,
+      "body": 1,
+      "div": 314,
+      "nav": 6,
+      "ul": 37,
+      "li": 161,
+      "a": 155,
+      "button": 43,
+      "span": 209,
+      "header": 12,
+      "svg": 8,
+      "path": 18,
+      "p": 33,
+      "form": 2,
+      "label": 5,
+      "input": 6,
+      "fieldset": 1,
+      "picture": 8,
+      "source": 48,
+      "img": 8,
+      "section": 21,
+      "h1": 1,
+      "h2": 7,
+      "sup": 3,
+      "main": 1,
+      "g": 10,
+      "defs": 3,
+      "content-search": 1,
+      "h3": 6,
+      "figure": 7,
+      "br": 6,
+      "dialog": 2,
+      "footer": 1,
+      "style": 2
+    },
+    "maxDepth": 24,
+    "avgDepth": 10.6,
+    "ariaRoles": [
+      "button",
+      "searchbox",
+      "search",
+      "navigation",
+      "banner",
+      "contentinfo",
+      "main",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 5,
+        "hasPassword": false,
+        "action": "https://www.deutsche-bank.de/pk/service-und-kontakt/kontakt/suche.html",
+        "method": "GET"
+      },
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.deutsche-bank.de/pk.html",
+        "method": "GET"
+      }
+    ],
+    "internalLinks": 143,
+    "externalLinks": 11,
+    "logoCandidate": 4,
+    "scriptCount": 31,
+    "iframeCount": 0,
+    "totalElements": 1218
+  }
+}

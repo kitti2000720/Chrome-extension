@@ -1,0 +1,56 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "pkobp, Helvetica, Arial, sans-serif",
+    "Arial"
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "18px",
+    "13.3333px",
+    "48px",
+    "12px",
+    "11px",
+    "40px",
+    "28px",
+    "46px",
+    "32px",
+    "26px",
+    "24px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 53, 116)",
+    "rgb(46, 125, 73)",
+    "rgb(99, 99, 99)",
+    "rgb(242, 242, 242)",
+    "rgb(219, 145, 44)",
+    "rgb(128, 128, 128)",
+    "rgb(229, 229, 229)",
+    "rgb(16, 16, 16)",
+    "rgb(202, 23, 29)",
+    "rgb(249, 249, 249)"
+  ],
+  "layout": {
+    "divs": 345,
+    "inputs": 6,
+    "buttons": 25
+  },
+  "dom_hash": -3660988955581489003,
+  "image_hash": "3cc1010138fcfcff",
+  "screenshot": "data/screenshots/pkobp_main.png",
+  "logo_url": "https://www.pkobp.pl/api/public/3c663fc2-a8dc-4cb9-ab55-9a4ee64b7c35.svg",
+  "logo_path": "data/screenshots/pkobp_main_logo.png",
+  "url": "https://www.pkobp.pl",
+  "bank": "pkobp_main",
+  "domain": "pkobp",
+  "logo_hash": "e7c3838383c3ff10"
+}

@@ -1,0 +1,66 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(34, 34, 34)"
+  },
+  "fonts": [
+    "\"Source Sans Pro\", sans-serif",
+    "\"Times New Roman\"",
+    "Totally, sans-serif",
+    "Squad, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "20px",
+    "22px",
+    "18px",
+    "55.2358px",
+    "31.3376px",
+    "38.6624px",
+    "11px",
+    "24px",
+    "12px"
+  ],
+  "colors": [
+    "rgb(34, 34, 34)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 0, 0)",
+    "rgb(0, 0, 238)",
+    "rgb(255, 255, 255)",
+    "rgb(82, 174, 48)",
+    "rgb(238, 247, 234)",
+    "rgb(232, 243, 252)",
+    "rgb(246, 247, 250)",
+    "rgb(125, 130, 139)",
+    "rgba(255, 255, 255, 0.95)",
+    "rgb(239, 242, 249)",
+    "rgb(255, 102, 0)",
+    "rgba(255, 255, 255, 0.7)",
+    "rgb(227, 232, 241)",
+    "rgb(208, 216, 232)",
+    "rgb(153, 153, 153)",
+    "rgb(170, 170, 170)",
+    "rgb(28, 32, 39)",
+    "rgb(236, 239, 246)",
+    "rgb(110, 116, 130)",
+    "rgb(211, 211, 211)",
+    "rgb(128, 128, 128)",
+    "rgba(0, 0, 0, 0.3)",
+    "rgba(0, 0, 0, 0.2)"
+  ],
+  "layout": {
+    "divs": 774,
+    "inputs": 5,
+    "buttons": 45
+  },
+  "dom_hash": 5410699414727820503,
+  "image_hash": "000000fffffff819",
+  "screenshot": "data/screenshots/dsk_main.png",
+  "logo_url": "https://dskbank.bg/images/default-source/redesign-latest-/logo-white.svg",
+  "logo_path": "data/screenshots/dsk_main_logo.png",
+  "url": "https://www.dskbank.bg",
+  "bank": "dsk_main",
+  "domain": "dskbank",
+  "logo_hash": "80c0bfdfffe68020"
+}

@@ -1,0 +1,31 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "\"Times New Roman\""
+  ],
+  "font_sizes": [
+    "16px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 0, 238)"
+  ],
+  "layout": {
+    "divs": 0,
+    "inputs": 0,
+    "buttons": 0
+  },
+  "dom_hash": 4536706638270492995,
+  "image_hash": "1f018fff00000000",
+  "screenshot": "data/screenshots/unicredit_main.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/unicredit_main_logo.png",
+  "url": "https://www.unicredit.it",
+  "bank": "unicredit_main",
+  "domain": "unicredit",
+  "logo_hash": "ff3f01010001bfff"
+}

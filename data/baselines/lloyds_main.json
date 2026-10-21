@@ -1,0 +1,43 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(80, 80, 80)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "\"GT Ultra Median Lloyds\""
+  ],
+  "font_sizes": [
+    "16px",
+    "10px",
+    "32px",
+    "20px",
+    "18px",
+    "24px",
+    "11px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(80, 80, 80)",
+    "rgb(255, 255, 255)",
+    "rgb(17, 182, 122)",
+    "rgb(50, 50, 51)",
+    "rgb(0, 106, 77)",
+    "rgb(241, 241, 241)"
+  ],
+  "layout": {
+    "divs": 21,
+    "inputs": 0,
+    "buttons": 1
+  },
+  "dom_hash": 8498537114898329163,
+  "image_hash": "063e1e00fefefe00",
+  "screenshot": "data/screenshots/lloyds_main.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/lloyds_main_logo.png",
+  "url": "https://www.lloydsbank.com",
+  "bank": "lloyds_main",
+  "domain": "lloydsbank",
+  "logo_hash": "ff7f40000000ffff"
+}

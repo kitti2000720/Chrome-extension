@@ -1,0 +1,46 @@
+{
+  "url": "https://netbank.erstebank.hu",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 11,
+      "title": 1,
+      "link": 18,
+      "script": 11,
+      "style": 1,
+      "body": 1,
+      "noscript": 1,
+      "div": 48,
+      "a": 19,
+      "header": 1,
+      "img": 12,
+      "br": 2,
+      "main": 1,
+      "section": 2,
+      "h1": 2,
+      "h2": 1,
+      "footer": 1,
+      "ul": 1,
+      "li": 7,
+      "p": 2,
+      "span": 2,
+      "button": 4
+    },
+    "maxDepth": 10,
+    "avgDepth": 4.9,
+    "ariaRoles": [
+      "dialog",
+      "banner",
+      "contentinfo",
+      "main"
+    ],
+    "formStructures": [],
+    "internalLinks": 3,
+    "externalLinks": 15,
+    "logoCandidate": 2,
+    "scriptCount": 11,
+    "iframeCount": 0,
+    "totalElements": 151
+  }
+}

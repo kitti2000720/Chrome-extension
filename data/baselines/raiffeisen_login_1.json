@@ -1,0 +1,50 @@
+{
+  "styles": {
+    "bg": "rgb(244, 244, 244)",
+    "color": "rgb(43, 45, 51)"
+  },
+  "fonts": [
+    "sans-serif",
+    "AmaliaW01-Regular",
+    "AmaliaW01-Bold"
+  ],
+  "font_sizes": [
+    "10px",
+    "14px",
+    "18px",
+    "16px",
+    "24px",
+    "12px",
+    "20px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(43, 45, 51)",
+    "rgb(244, 244, 244)",
+    "rgb(255, 255, 255)",
+    "rgb(255, 241, 1)",
+    "rgb(254, 230, 0)",
+    "rgb(254, 213, 0)",
+    "rgb(148, 148, 153)",
+    "rgb(230, 30, 51)",
+    "rgb(43, 46, 54)",
+    "rgb(0, 68, 84)",
+    "rgba(128, 129, 133, 0.6)",
+    "rgb(179, 179, 179)"
+  ],
+  "layout": {
+    "divs": 60,
+    "inputs": 1,
+    "buttons": 5
+  },
+  "dom_hash": 9088313750211768442,
+  "image_hash": "3c0e3f003dff1e11",
+  "screenshot": "data/screenshots/raiffeisen_login_1.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/raiffeisen_login_1_logo.png",
+  "url": "https://sso.raiffeisen.hu/sso/XUI/#login/",
+  "bank": "raiffeisen_login_1",
+  "domain": "raiffeisen",
+  "logo_hash": "f7e000283f07c7e7"
+}

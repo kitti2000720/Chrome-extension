@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bbva.es",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 1,
+      "title": 1,
+      "style": 1,
+      "body": 1,
+      "header": 1,
+      "div": 7,
+      "img": 2,
+      "p": 3,
+      "span": 1,
+      "script": 1
+    },
+    "maxDepth": 6,
+    "avgDepth": 3.1,
+    "ariaRoles": [
+      "banner"
+    ],
+    "formStructures": [],
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "logoCandidate": 1,
+    "scriptCount": 1,
+    "iframeCount": 0,
+    "totalElements": 21
+  }
+}

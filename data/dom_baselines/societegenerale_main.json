@@ -1,0 +1,81 @@
+{
+  "url": "https://www.societegenerale.fr",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "script": 39,
+      "meta": 26,
+      "link": 9,
+      "title": 1,
+      "style": 11,
+      "body": 1,
+      "button": 17,
+      "header": 1,
+      "nav": 6,
+      "ul": 23,
+      "li": 127,
+      "svg": 32,
+      "use": 25,
+      "a": 150,
+      "span": 95,
+      "div": 205,
+      "g": 5,
+      "path": 44,
+      "rect": 7,
+      "form": 2,
+      "label": 2,
+      "input": 3,
+      "main": 1,
+      "img": 44,
+      "h2": 16,
+      "p": 48,
+      "b": 2,
+      "section": 19,
+      "picture": 14,
+      "source": 29,
+      "h1": 1,
+      "strong": 6,
+      "br": 4,
+      "h3": 19,
+      "sup": 2,
+      "footer": 1
+    },
+    "maxDepth": 14,
+    "avgDepth": 7.6,
+    "ariaRoles": [
+      "banner",
+      "img",
+      "navigation",
+      "search",
+      "combobox",
+      "listbox",
+      "main",
+      "group",
+      "status",
+      "contentinfo",
+      "dialog",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://particuliers.sg.fr/resultats-recherche",
+        "method": "GET"
+      },
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://particuliers.sg.fr/resultats-recherche",
+        "method": "GET"
+      }
+    ],
+    "internalLinks": 118,
+    "externalLinks": 30,
+    "logoCandidate": 2,
+    "scriptCount": 39,
+    "iframeCount": 0,
+    "totalElements": 1039
+  }
+}

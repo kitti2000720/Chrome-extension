@@ -1,0 +1,62 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(101, 101, 101)"
+  },
+  "fonts": [
+    "SofiaPro-Regular, sans-serif",
+    "SofiaPro-Light, sans-serif",
+    "Arial",
+    "SofiaPro-Medium, sans-serif",
+    "SofiaPro-Bold, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "20px",
+    "24px",
+    "18px",
+    "13.3333px",
+    "18.72px",
+    "32px",
+    "47.104px",
+    "22.4036px",
+    "26px",
+    "22px",
+    "30px",
+    "40px",
+    "20.096px",
+    "14px"
+  ],
+  "colors": [
+    "rgb(101, 101, 101)",
+    "rgb(255, 255, 255)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 0, 0)",
+    "rgb(217, 25, 24)",
+    "rgb(51, 51, 51)",
+    "rgb(242, 242, 242)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 255)",
+    "rgb(248, 248, 248)",
+    "rgb(209, 30, 37)",
+    "rgb(202, 27, 31)",
+    "rgb(148, 148, 148)",
+    "rgb(130, 130, 130)",
+    "rgb(192, 192, 192)",
+    "rgba(255, 255, 255, 0.698)"
+  ],
+  "layout": {
+    "divs": 187,
+    "inputs": 1,
+    "buttons": 20
+  },
+  "dom_hash": -2638567751991938829,
+  "image_hash": "00514f5f73777f00",
+  "screenshot": "data/screenshots/pekao_main.png",
+  "logo_url": "https://www.pekao.com.pl/.resources/pekao-module/webresources/dist_v2/img/ico-home.svg",
+  "logo_path": "data/screenshots/pekao_main_logo.png",
+  "url": "https://www.pekao.com.pl",
+  "bank": "pekao_main",
+  "domain": "pekao",
+  "logo_hash": "ff5bd3c0418080ff"
+}

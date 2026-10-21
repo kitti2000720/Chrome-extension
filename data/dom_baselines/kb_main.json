@@ -1,0 +1,79 @@
+{
+  "url": "https://www.kb.cz",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 7,
+      "link": 9,
+      "title": 1,
+      "script": 20,
+      "style": 3,
+      "body": 1,
+      "div": 254,
+      "header": 1,
+      "svg": 94,
+      "rect": 24,
+      "path": 181,
+      "a": 224,
+      "button": 6,
+      "p": 2,
+      "ul": 41,
+      "li": 179,
+      "aside": 2,
+      "form": 2,
+      "label": 2,
+      "input": 2,
+      "persoo-autocomplete": 1,
+      "section": 2,
+      "h3": 5,
+      "nav": 3,
+      "g": 19,
+      "defs": 19,
+      "clippath": 19,
+      "h5": 7,
+      "span": 160,
+      "picture": 2,
+      "source": 10,
+      "img": 6,
+      "main": 1,
+      "video": 8,
+      "h2": 7,
+      "noscript": 6,
+      "footer": 1,
+      "chat-app": 1
+    },
+    "maxDepth": 25,
+    "avgDepth": 12.4,
+    "ariaRoles": [
+      "img",
+      "search",
+      "presentation",
+      "navigation",
+      "banner",
+      "contentinfo",
+      "main",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.kb.cz/cs/obcane",
+        "method": "GET"
+      },
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.kb.cz/cs/obcane",
+        "method": "GET"
+      }
+    ],
+    "internalLinks": 207,
+    "externalLinks": 17,
+    "logoCandidate": 1,
+    "scriptCount": 20,
+    "iframeCount": 0,
+    "totalElements": 1334
+  }
+}

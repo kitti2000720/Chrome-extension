@@ -1,0 +1,70 @@
+{
+  "url": "https://netbankar.mbhbank.hu/index.do",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 3,
+      "link": 4,
+      "title": 1,
+      "script": 14,
+      "body": 1,
+      "noscript": 1,
+      "div": 192,
+      "span": 7,
+      "a": 23,
+      "br": 18,
+      "form": 4,
+      "input": 38,
+      "label": 14,
+      "img": 6,
+      "table": 37,
+      "tbody": 37,
+      "tr": 61,
+      "td": 140,
+      "i": 72,
+      "em": 12,
+      "button": 12,
+      "u": 1,
+      "b": 2,
+      "textarea": 1
+    },
+    "maxDepth": 29,
+    "avgDepth": 14.7,
+    "ariaRoles": [
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 17,
+        "hasPassword": true,
+        "action": "https://netbankar.mbhbank.hu/index.do",
+        "method": "POST"
+      },
+      {
+        "inputCount": 11,
+        "hasPassword": false,
+        "action": "https://netbankar.mbhbank.hu/index.do",
+        "method": "POST"
+      },
+      {
+        "inputCount": 5,
+        "hasPassword": false,
+        "action": "https://netbankar.mbhbank.hu/index.do",
+        "method": "POST"
+      },
+      {
+        "inputCount": 4,
+        "hasPassword": true,
+        "action": "https://netbankar.mbhbank.hu/index.do",
+        "method": "POST"
+      }
+    ],
+    "internalLinks": 10,
+    "externalLinks": 13,
+    "logoCandidate": 0,
+    "scriptCount": 14,
+    "iframeCount": 0,
+    "totalElements": 703
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://login-online.mbhbank.hu/authenticate",
+  "bank": "mbh_login_1",
+  "domain": "mbhbank",
+  "bot_detected": true,
+  "logo_path": null,
+  "logo_hash": "",
+  "screenshot": null
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://www.kh.hu",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "title": 1,
+      "meta": 9,
+      "link": 30,
+      "script": 71,
+      "style": 13,
+      "body": 1,
+      "div": 535,
+      "header": 6,
+      "a": 649,
+      "nav": 4,
+      "ul": 42,
+      "li": 197,
+      "span": 545,
+      "p": 62,
+      "i": 97,
+      "select": 4,
+      "option": 20,
+      "form": 3,
+      "input": 8,
+      "button": 9,
+      "main": 1,
+      "section": 19,
+      "img": 10,
+      "label": 6,
+      "h2": 10,
+      "b": 1,
+      "br": 3,
+      "strong": 4,
+      "menu": 4,
+      "h3": 13,
+      "h4": 3,
+      "video": 4,
+      "source": 4,
+      "article": 2,
+      "time": 2,
+      "u": 2,
+      "hr": 1,
+      "footer": 1,
+      "iframe": 1
+    },
+    "maxDepth": 36,
+    "avgDepth": 13.9,
+    "ariaRoles": [
+      "banner",
+      "navigation",
+      "menubar",
+      "presentation",
+      "menuitem",
+      "menu",
+      "main",
+      "contentinfo",
+      "img",
+      "dialog",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 2,
+        "hasPassword": false,
+        "action": "https://www.kh.hu/kereses",
+        "method": "GET"
+      },
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.kh.hu/bank#",
+        "method": "POST"
+      },
+      {
+        "inputCount": 2,
+        "hasPassword": false,
+        "action": "https://www.kh.hu/kereses",
+        "method": "GET"
+      }
+    ],
+    "internalLinks": 585,
+    "externalLinks": 44,
+    "logoCandidate": 3,
+    "scriptCount": 71,
+    "iframeCount": 1,
+    "totalElements": 2399
+  }
+}

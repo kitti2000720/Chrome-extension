@@ -1,0 +1,67 @@
+{
+  "url": "https://www.otpbanka.hr",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "meta": 14,
+      "link": 11,
+      "title": 1,
+      "style": 7,
+      "script": 22,
+      "body": 1,
+      "div": 207,
+      "a": 304,
+      "noscript": 1,
+      "header": 2,
+      "i": 4,
+      "span": 27,
+      "section": 31,
+      "ul": 48,
+      "li": 226,
+      "em": 5,
+      "img": 45,
+      "form": 1,
+      "input": 5,
+      "button": 5,
+      "p": 35,
+      "h3": 9,
+      "h4": 3,
+      "br": 2,
+      "aside": 1,
+      "strong": 3,
+      "h2": 7,
+      "table": 1,
+      "thead": 1,
+      "tr": 4,
+      "th": 3,
+      "tbody": 1,
+      "td": 9,
+      "footer": 1,
+      "hr": 1
+    },
+    "maxDepth": 15,
+    "avgDepth": 9.2,
+    "ariaRoles": [
+      "banner",
+      "complementary",
+      "dialog",
+      "contentinfo",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 3,
+        "hasPassword": false,
+        "action": "https://www.otpbanka.hr/search/node",
+        "method": "POST"
+      }
+    ],
+    "internalLinks": 285,
+    "externalLinks": 14,
+    "logoCandidate": 2,
+    "scriptCount": 22,
+    "iframeCount": 0,
+    "totalElements": 1050
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://internetbank.otpbank.hu/auth/bejelentkezes",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "script": 8,
+      "meta": 6,
+      "title": 1,
+      "base": 1,
+      "link": 12,
+      "style": 2,
+      "noscript": 2,
+      "body": 1,
+      "iba-root": 1,
+      "ib-ui-preload-svg-sprite": 1,
+      "div": 1,
+      "img": 1,
+      "h2": 2,
+      "p": 3,
+      "chat-client": 1
+    },
+    "maxDepth": 3,
+    "avgDepth": 2,
+    "ariaRoles": [],
+    "formStructures": [],
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "logoCandidate": 0,
+    "scriptCount": 8,
+    "iframeCount": 0,
+    "totalElements": 45
+  }
+}

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+playwright
+xgboost
+shap
+scikit-learn
+numpy
+scipy
+open_clip_torch
+torch
+Pillow
+imagehash
+python-Levenshtein
+tldextract
+requests

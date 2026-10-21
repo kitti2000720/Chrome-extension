@@ -1,0 +1,80 @@
+{
+  "url": "https://ebank.sso.kh.hu",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "title": 1,
+      "meta": 8,
+      "link": 29,
+      "script": 60,
+      "style": 8,
+      "body": 1,
+      "div": 317,
+      "h2": 5,
+      "p": 45,
+      "a": 110,
+      "input": 6,
+      "label": 6,
+      "span": 56,
+      "header": 4,
+      "nav": 2,
+      "ul": 23,
+      "li": 101,
+      "select": 2,
+      "option": 10,
+      "i": 51,
+      "form": 2,
+      "button": 4,
+      "main": 1,
+      "section": 26,
+      "img": 15,
+      "h1": 1,
+      "strong": 21,
+      "h3": 31,
+      "br": 3,
+      "b": 1,
+      "h5": 1,
+      "iframe": 2,
+      "menu": 2,
+      "figure": 7,
+      "figcaption": 7,
+      "footer": 1
+    },
+    "maxDepth": 31,
+    "avgDepth": 15.6,
+    "ariaRoles": [
+      "banner",
+      "navigation",
+      "menubar",
+      "presentation",
+      "menuitem",
+      "menu",
+      "main",
+      "tab",
+      "contentinfo",
+      "img",
+      "form"
+    ],
+    "formStructures": [
+      {
+        "inputCount": 2,
+        "hasPassword": false,
+        "action": "https://www.kh.hu/kereses",
+        "method": "GET"
+      },
+      {
+        "inputCount": 1,
+        "hasPassword": false,
+        "action": "https://www.kh.hu/ebank#",
+        "method": "POST"
+      }
+    ],
+    "internalLinks": 87,
+    "externalLinks": 19,
+    "logoCandidate": 0,
+    "scriptCount": 60,
+    "iframeCount": 2,
+    "totalElements": 972
+  }
+}

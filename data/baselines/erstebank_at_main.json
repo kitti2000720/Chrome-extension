@@ -1,0 +1,55 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(48, 48, 48)"
+  },
+  "fonts": [
+    "sans-serif",
+    "Inter, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "10px",
+    "12px",
+    "52px",
+    "18px",
+    "40px",
+    "0px",
+    "28px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(48, 48, 48)",
+    "rgb(0, 0, 238)",
+    "rgb(255, 255, 255)",
+    "rgb(6, 78, 161)",
+    "rgb(40, 112, 237)",
+    "rgba(255, 255, 255, 0.5)",
+    "rgb(244, 246, 250)",
+    "rgb(80, 106, 151)",
+    "rgba(11, 31, 66, 0.76)",
+    "rgba(40, 112, 237, 0.07)",
+    "rgb(19, 94, 226)",
+    "rgb(36, 83, 117)",
+    "rgb(2, 134, 97)",
+    "rgb(114, 28, 122)",
+    "rgb(11, 31, 66)",
+    "rgb(102, 102, 102)"
+  ],
+  "layout": {
+    "divs": 460,
+    "inputs": 1,
+    "buttons": 23
+  },
+  "dom_hash": -2003314953462441013,
+  "image_hash": "030101ffbd00bdff",
+  "screenshot": "data/screenshots/erstebank_at_main.png",
+  "logo_url": "https://cdn0.erstegroup.com/content/dam/at/common/logos/white/EBOe_Logo_screen_white.svg",
+  "logo_path": "data/screenshots/erstebank_at_main_logo.png",
+  "url": "https://www.erste-bank.at",
+  "bank": "erstebank_at_main",
+  "domain": "erste-bank",
+  "logo_hash": "000000ffaaff59ff"
+}

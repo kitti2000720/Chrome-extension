@@ -1,0 +1,48 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 73, 123)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "Inter, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "52px",
+    "18px",
+    "40px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 73, 123)",
+    "rgb(255, 255, 255)",
+    "rgb(114, 28, 122)",
+    "rgba(40, 112, 237, 0.92)",
+    "rgb(33, 33, 33)",
+    "rgba(255, 255, 255, 0.5)",
+    "rgb(11, 31, 66)",
+    "rgb(255, 97, 48)",
+    "rgb(244, 246, 250)",
+    "rgb(40, 112, 237)",
+    "rgb(48, 48, 48)",
+    "rgba(0, 73, 123, 0.4)",
+    "rgba(33, 65, 108, 0.6)"
+  ],
+  "layout": {
+    "divs": 65,
+    "inputs": 0,
+    "buttons": 0
+  },
+  "dom_hash": -1711123841167506290,
+  "image_hash": "000000ffffff2597",
+  "screenshot": "data/screenshots/erste_login.png",
+  "logo_url": "https://netbank.erstebank.hu/erste-netbank-eloszto/img/erste_logo-w.svg",
+  "logo_path": "data/screenshots/erste_login_logo.png",
+  "url": "https://netbank.erstebank.hu",
+  "bank": "erste_login",
+  "domain": "erstebank",
+  "logo_hash": "000000ffaaff59ff"
+}

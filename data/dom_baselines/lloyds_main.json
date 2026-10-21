@@ -1,0 +1,38 @@
+{
+  "url": "https://www.lloydsbank.com",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "title": 1,
+      "meta": 9,
+      "script": 2,
+      "link": 1,
+      "style": 1,
+      "body": 1,
+      "div": 21,
+      "p": 14,
+      "span": 1,
+      "img": 1,
+      "h1": 1,
+      "a": 10,
+      "ul": 2,
+      "li": 6,
+      "button": 1,
+      "h2": 3,
+      "h3": 1,
+      "br": 1,
+      "strong": 5
+    },
+    "maxDepth": 13,
+    "avgDepth": 7.2,
+    "ariaRoles": [],
+    "formStructures": [],
+    "internalLinks": 5,
+    "externalLinks": 5,
+    "logoCandidate": 0,
+    "scriptCount": 2,
+    "iframeCount": 0,
+    "totalElements": 84
+  }
+}

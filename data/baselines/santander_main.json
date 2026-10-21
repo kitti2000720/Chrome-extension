@@ -1,0 +1,55 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "\"Santander MicroText\", sans-serif",
+    "\"Santander Microtext\"",
+    "\"Santander Headline\""
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "24px",
+    "60px",
+    "30px",
+    "18px",
+    "54px",
+    "48px",
+    "28px",
+    "8px",
+    "12px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 0, 238)",
+    "rgb(236, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(34, 34, 34)",
+    "rgb(236, 245, 245)",
+    "rgb(18, 114, 119)",
+    "rgb(246, 246, 246)",
+    "rgb(13, 13, 13)",
+    "rgba(20, 20, 20, 0.8)",
+    "rgb(251, 241, 234)",
+    "rgb(87, 87, 87)",
+    "rgb(240, 240, 240)",
+    "rgb(245, 249, 251)"
+  ],
+  "layout": {
+    "divs": 843,
+    "inputs": 0,
+    "buttons": 12
+  },
+  "dom_hash": -8059367635819698915,
+  "image_hash": "000000c3c3ffffff",
+  "screenshot": "data/screenshots/santander_main.png",
+  "logo_url": "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:8b24b83c-01a5-448d-af70-675315888cfd/as/UUID.webp",
+  "logo_path": "data/screenshots/santander_main_logo.png",
+  "url": "https://www.bancosantander.es",
+  "bank": "santander_main",
+  "domain": "bancosantander",
+  "logo_hash": "0000000000000000"
+}

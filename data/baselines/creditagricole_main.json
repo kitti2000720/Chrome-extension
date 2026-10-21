@@ -1,0 +1,61 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(25, 33, 45)"
+  },
+  "fonts": [
+    "sans-serif",
+    "\"Open Sans\", system-ui, ui-sans-serif, sans-serif",
+    "Montserrat, system-ui, ui-sans-serif, sans-serif",
+    "\"NPC Icons crunchy R2602\"",
+    "\"Times New Roman\""
+  ],
+  "font_sizes": [
+    "14px",
+    "24px",
+    "40px",
+    "12px",
+    "11px",
+    "34px",
+    "18px",
+    "28px",
+    "16px",
+    "30px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(25, 33, 45)",
+    "rgb(255, 255, 255)",
+    "rgb(0, 116, 97)",
+    "rgb(246, 247, 249)",
+    "rgb(244, 249, 243)",
+    "rgb(48, 130, 118)",
+    "rgb(0, 70, 82)",
+    "rgb(102, 110, 138)",
+    "rgb(7, 81, 68)",
+    "rgb(116, 96, 0)",
+    "rgb(255, 246, 209)",
+    "rgb(28, 106, 119)",
+    "rgb(224, 243, 246)",
+    "rgb(216, 234, 215)",
+    "rgb(237, 238, 241)",
+    "rgb(70, 82, 102)",
+    "rgb(240, 240, 240)",
+    "rgba(0, 0, 0, 0.5)"
+  ],
+  "layout": {
+    "divs": 251,
+    "inputs": 2,
+    "buttons": 11
+  },
+  "dom_hash": 6491836952574175198,
+  "image_hash": "fffff0f0f0200200",
+  "screenshot": "data/screenshots/creditagricole_main.png",
+  "logo_url": "https://www.credit-agricole.fr/content/dam/assetsca/master/public/commun/images/autre/images/CA_Logo_seul-1.svg",
+  "logo_path": "data/screenshots/creditagricole_main_logo.png",
+  "url": "https://www.credit-agricole.fr",
+  "bank": "creditagricole_main",
+  "domain": "credit-agricole",
+  "logo_hash": "0e1f3f3f76616110"
+}

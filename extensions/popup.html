@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+      body { font-family: monospace; font-size: 12px; width: 420px; padding: 8px; }
+      h3 { margin: 12px 0 4px; border-bottom: 1px solid #ccc; }
+      p { white-space: pre-wrap; margin: 2px 0 6px; }
+      .warn  { color: #c00; font-weight: bold; }
+      .ok    { color: #070; }
+      .score { color: #00c; }
+      .detail { font-size: 11px; color: #555; margin-left: 8px; }
+
+      #verdict-panel { border-radius: 6px; padding: 8px 10px; margin-bottom: 10px; border: 2px solid #ccc; background: #f5f5f5; }
+      #verdict-panel.safe       { border-color: #4caf50; background: #f1f9f1; }
+      #verdict-panel.suspicious { border-color: #e65100; background: #fff8f0; }
+      #verdict-panel.danger     { border-color: #c62828; background: #fff2f2; animation: vpulse 1s ease-in-out 3; }
+      @keyframes vpulse { 0%,100% { opacity:1; } 50% { opacity:.65; } }
+      #verdict-bar-wrap { height: 7px; background: #ddd; border-radius: 4px; margin-bottom: 6px; overflow: hidden; }
+      #verdict-bar { height: 100%; width: 0%; border-radius: 4px; transition: width .5s, background .5s; background: #4caf50; }
+      #verdict-header { display: flex; justify-content: space-between; align-items: center; }
+      #verdict-label { font-weight: bold; font-size: 12px; }
+      .verdict-safe       { color: #2e7d32; }
+      .verdict-suspicious { color: #e65100; }
+      .verdict-danger     { color: #c62828; }
+      #verdict-score-text { font-size: 13px; font-weight: bold; color: #333; }
+      #verdict-reasons { margin-top: 5px; font-size: 11px; color: #555; line-height: 1.6; }
+
+    
+      #ml-row { margin-top: 6px; font-size: 11px; border-top: 1px solid #ddd; padding-top: 5px; }
+      #ml-bar-wrap { height: 5px; background: #ddd; border-radius: 3px; margin: 3px 0; overflow: hidden; }
+      #ml-bar { height: 100%; width: 0%; border-radius: 3px; transition: width .6s, background .6s; background: #1565c0; }
+
+
+      #lang-bar {
+        display: flex; justify-content: flex-end; align-items: center;
+        margin-bottom: 6px; gap: 4px;
+      }
+      #lang-bar span { font-size: 10px; color: #888; }
+      .lang-btn {
+        font-size: 10px; font-weight: bold; padding: 1px 6px;
+        border: 1px solid #ccc; border-radius: 3px; background: #f5f5f5;
+        cursor: pointer; color: #555;
+      }
+      .lang-btn.active { background: #1565c0; color: #fff; border-color: #1565c0; }
+    </style>
+  </head>
+  <body>
+
+    <div id="lang-bar">
+      <span data-i18n="lang_label">Nyelv:</span>
+      <button class="lang-btn active" id="btn-hu">HU</button>
+      <button class="lang-btn"        id="btn-en">EN</button>
+    </div>
+
+    <div id="verdict-panel">
+      <div id="verdict-bar-wrap"><div id="verdict-bar"></div></div>
+      <div id="verdict-header">
+        <span id="verdict-label" class="verdict-safe" data-i18n="v_analyzing">Elemzés folyamatban...</span>
+        <span id="verdict-score-text">0 / 100</span>
+      </div>
+      <div id="verdict-reasons"></div>
+      <div id="ml-row" style="display:none">
+        <div style="display:flex;justify-content:space-between">
+          <span data-i18n="ml_label">XGBoost ML valószínűség:</span>
+          <span id="ml-score-text" style="font-weight:bold">–</span>
+        </div>
+        <div id="ml-bar-wrap"><div id="ml-bar"></div></div>
+        <div id="ml-top-features" style="color:#777;font-size:10px"></div>
+      </div>
+    </div>
+
+    <h3 data-i18n="s_ssl">SSL / HTTPS Ellenőrzés</h3>
+    <p id="url"></p>
+    <p id="ssl-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+
+    <h3 data-i18n="s_domain">Domain Ellenőrzés</h3>
+    <p id="domain-url"></p>
+    <p id="domain-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+
+    <h3 data-i18n="s_domain_age">Domain Kor Ellenőrzés</h3>
+    <p id="domain-age-url"></p>
+    <p id="domain-age-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+
+    <h3 data-i18n="s_browser">Böngészőforgalom Elemzése</h3>
+    <p id="browser-url"></p>
+    <p id="browser-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+
+    <h3 data-i18n="s_cookie">Cookie Biztonság</h3>
+    <p id="cookie-url"></p>
+    <div id="cookie-status" style="white-space:pre-wrap;margin:2px 0 6px;font-size:12px;" data-i18n="checking">Ellenőrzés folyamatban...</div>
+
+    <h3 data-i18n="s_login_form">Bejelentkezési Űrlap</h3>
+    <p id="login-form-url"></p>
+    <p id="login-form-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+
+    <h3 data-i18n="s_visual_tab">Vizuális Összehasonlítás (Wavelet · Tab képernyőkép)</h3>
+    <p id="visual-tab-url"></p>
+    <p id="visual-tab-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+    <div id="visual-tab-details" class="detail"></div>
+
+    <h3 data-i18n="s_frontend">Frontend Phishing Detekció (Playwright)</h3>
+    <p id="frontend-url"></p>
+    <p id="frontend-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+    <div id="frontend-details" class="detail"></div>
+
+    <h3 data-i18n="s_html_sim">HTML Struktúra Elemzés</h3>
+    <p id="backend-url"></p>
+    <p id="backend-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+
+    <h3 data-i18n="s_homograph">Homograph / Punycode Detekció</h3>
+    <p id="homograph-url"></p>
+    <p id="homograph-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+    <div id="homograph-details" class="detail"></div>
+
+    <h3 data-i18n="s_css_hidden">CSS Rejtett Elemek</h3>
+    <p id="css-hidden-url"></p>
+    <p id="css-hidden-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+    <div id="css-hidden-details" class="detail"></div>
+
+    <h3 data-i18n="s_overlay">Screenshot-Overlay Detekció</h3>
+    <p id="overlay-url"></p>
+    <p id="overlay-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+    <div id="overlay-details" class="detail"></div>
+
+    <h3 data-i18n="s_honeypot">Honeypot Login Teszt</h3>
+    <p id="honeypot-url"></p>
+    <p id="honeypot-status" data-i18n="running">Futtatás folyamatban...</p>
+    <div id="honeypot-details" class="detail"></div>
+
+    <h3 data-i18n="s_dom">DOM Struktúra Elemzés</h3>
+    <p id="dom-url"></p>
+    <p id="dom-status" data-i18n="checking">Ellenőrzés folyamatban...</p>
+    <div id="dom-details" class="detail"></div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

@@ -1,0 +1,57 @@
+{
+  "styles": {
+    "bg": "rgb(245, 245, 245)",
+    "color": "rgb(66, 66, 66)"
+  },
+  "fonts": [
+    "Arial",
+    "arial, tahoma, helvetica, sans-serif",
+    "arial, tahoma, verdana, sans-serif"
+  ],
+  "font_sizes": [
+    "12px",
+    "11px",
+    "9px",
+    "10px",
+    "18px",
+    "14px",
+    "22px",
+    "0px",
+    "1px"
+  ],
+  "colors": [
+    "rgb(66, 66, 66)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(245, 245, 245)",
+    "rgb(245, 242, 233)",
+    "rgb(255, 247, 224)",
+    "rgb(68, 68, 68)",
+    "rgb(255, 255, 255)",
+    "rgb(33, 33, 33)",
+    "rgb(143, 28, 107)",
+    "rgb(0, 0, 0)",
+    "rgb(128, 128, 128)",
+    "rgb(224, 224, 224)",
+    "rgb(158, 158, 158)",
+    "rgb(161, 161, 161)",
+    "rgb(57, 58, 57)",
+    "rgb(199, 223, 252)",
+    "rgb(21, 66, 139)",
+    "rgb(211, 65, 65)",
+    "rgb(57, 96, 149)"
+  ],
+  "layout": {
+    "divs": 192,
+    "inputs": 38,
+    "buttons": 12
+  },
+  "dom_hash": 2633134708367912147,
+  "image_hash": "00cbc7c781c7cfb1",
+  "screenshot": "data/screenshots/mbh_login_2.png",
+  "logo_url": null,
+  "logo_path": "data/screenshots/mbh_login_2_logo.png",
+  "url": "https://netbankar.mbhbank.hu/index.do",
+  "bank": "mbh_login_2",
+  "domain": "mbhbank",
+  "logo_hash": "070707ffff070303"
+}

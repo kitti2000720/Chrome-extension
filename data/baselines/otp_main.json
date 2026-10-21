@@ -1,0 +1,62 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(27, 31, 39)"
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "\"Source Sans Pro\", sans-serif",
+    "\"Source Sans Pro\", Arial, sans-serif",
+    "squad, sans-serif",
+    "SourceSansPro, arial, sans-serif"
+  ],
+  "font_sizes": [
+    "10px",
+    "16px",
+    "24px",
+    "14px",
+    "20px",
+    "13.6px",
+    "40px",
+    "32px",
+    "18px",
+    "30px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(27, 31, 39)",
+    "rgb(255, 255, 255)",
+    "rgb(255, 204, 0)",
+    "rgb(82, 174, 48)",
+    "rgb(246, 247, 250)",
+    "rgb(219, 244, 250)",
+    "rgb(27, 130, 227)",
+    "rgb(255, 102, 0)",
+    "rgb(227, 227, 227)",
+    "rgb(158, 158, 158)",
+    "rgb(236, 239, 246)",
+    "rgb(245, 245, 245)",
+    "rgb(110, 116, 130)",
+    "rgb(230, 249, 239)",
+    "rgb(255, 249, 228)",
+    "rgb(255, 250, 230)",
+    "rgb(227, 232, 241)",
+    "rgb(240, 240, 240)",
+    "rgb(57, 153, 202)"
+  ],
+  "layout": {
+    "divs": 315,
+    "inputs": 4,
+    "buttons": 6
+  },
+  "dom_hash": -418997595331074844,
+  "image_hash": "ff007e006200ffbf",
+  "screenshot": "data/screenshots/otp_main.png",
+  "logo_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTExLjUgMTUuNzVhLjc1Ljc1IDAgMCAwIDEuNSAwaC0xLjVabTEuNS03LjVhLjc1Ljc1IDAgMSAwLTEuNSAwSDEzWk0xLjE2IDIwLjgxOGwtLjY3Mi0uMzMzLjY3My4zMzNabTIxLjY4IDAtLjY3Mi4zMzMuNjcyLS4zMzNabS05LjUyMy0xOS4yNC42NzItLjMzMi0uNjcyLjMzMlptLTIuNjMzIDAgLjY3Mi4zMzMtLjY3Mi0uMzMzWm0xLjU2NiAxNi40MjRjLS42MjEgMC0xLjEyNS41MDMtMS4xMjUgMS4xMjVoMS41YS4zNzUuMzc1IDAgMCAxLS4zNzUuMzc1VjE4Wm0tMS4xMjUgMS4xMjVjMCAuNjIxLjUwNCAxLjEyNSAxLjEyNSAxLjEyNXYtMS41Yy4yMDcgMCAuMzc1LjE2OC4zNzUuMzc1aC0xLjVabTEuMTI1IDEuMTI1Yy42MjIgMCAxLjEyNS0uNTA0IDEuMTI1LTEuMTI1aC0xLjVjMC0uMjA3LjE2OC0uMzc1LjM3NS0uMzc1djEuNVptMS4xMjUtMS4xMjVjMC0uNjIyLS41MDMtMS4xMjUtMS4xMjUtMS4xMjV2MS41YS4zNzUuMzc1IDAgMCAxLS4zNzUtLjM3NWgxLjVaTTExLjUgMTguNzV2Ljc1SDEzdi0uNzVoLTEuNVptMS41LTN2LTcuNWgtMS41djcuNUgxM1ptLS4zNTYtMTMuODQgOS41MjQgMTkuMjM5IDEuMzQ0LS42NjYtOS41MjMtMTkuMjQtMS4zNDUuNjY2Wm04Ljg4IDIwLjM0SDIuNDc2djEuNWgxOS4wNDZ2LTEuNVpNMS44MzIgMjEuMTVsOS41MjMtMTkuMjQtMS4zNDQtLjY2NS05LjUyNCAxOS4yNCAxLjM0NS42NjVabS42NDQgMS4xMDFjLS41MTggMC0uOTA0LS41NzYtLjY0NC0xLjEwMWwtMS4zNDUtLjY2NmMtLjczIDEuNDc4LjMwOSAzLjI2NyAxLjk4OSAzLjI2N3YtMS41Wm0xOS42OS0xLjEwMWMuMjYuNTI1LS4xMjYgMS4xMDEtLjY0NCAxLjEwMXYxLjVjMS42OCAwIDIuNzItMS43OSAxLjk4OS0zLjI2N2wtMS4zNDQuNjY2Wk0xMy45OSAxLjI0NWMtLjgyMS0xLjY1OS0zLjE1Ni0xLjY1OS0zLjk3NyAwbDEuMzQ0LjY2NWEuNzEyLjcxMiAwIDAgMSAxLjI4OCAwbDEuMzQ1LS42NjVaIiBmaWxsPSIjMTUxNjE3Ii8+PC9zdmc+",
+  "logo_path": "data/screenshots/otp_main_logo.png",
+  "url": "https://www.otpbank.hu",
+  "bank": "otp_main",
+  "domain": "otpbank",
+  "logo_hash": "00d0f0f0f0f0e4ff"
+}

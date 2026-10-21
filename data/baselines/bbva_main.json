@@ -1,0 +1,38 @@
+{
+  "styles": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "fonts": [
+    "BentonSans-Regular, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+    "BentonSans-Thin, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+    "BentonSans-Medium, \"Helvetica Neue\", Arial, Helvetica, sans-serif"
+  ],
+  "font_sizes": [
+    "16px",
+    "22px",
+    "15px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(7, 33, 70)",
+    "rgb(18, 18, 18)",
+    "rgb(213, 237, 251)",
+    "rgb(91, 190, 255)"
+  ],
+  "layout": {
+    "divs": 7,
+    "inputs": 0,
+    "buttons": 0
+  },
+  "dom_hash": -2214396299032401681,
+  "image_hash": "0081818181ffffff",
+  "screenshot": "data/screenshots/bbva_main.png",
+  "logo_url": "https://www.bbva.es/Customdeny/logo_bbva_blanco.svg",
+  "logo_path": "data/screenshots/bbva_main_logo.png",
+  "url": "https://www.bbva.es",
+  "bank": "bbva_main",
+  "domain": "bbva",
+  "logo_hash": "00f2525efd5555f0"
+}

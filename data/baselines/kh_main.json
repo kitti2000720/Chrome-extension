@@ -1,0 +1,68 @@
+{
+  "styles": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 55, 103)"
+  },
+  "fonts": [
+    "sans-serif",
+    "\"Helvetica Neue LT Pro\", Helvetica, Arial, sans-serif",
+    "FontAwesome",
+    "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "khicon",
+    "\"Times New Roman\""
+  ],
+  "font_sizes": [
+    "16px",
+    "14px",
+    "12px",
+    "18px",
+    "0px",
+    "24px",
+    "40px",
+    "13px",
+    "26px",
+    "15px",
+    "27px",
+    "52px",
+    "32px",
+    "24.5px",
+    "21px",
+    "17.5px",
+    "30px",
+    "34px"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(0, 55, 103)",
+    "rgb(255, 255, 255)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 54, 101)",
+    "rgb(230, 247, 254)",
+    "rgb(77, 114, 147)",
+    "rgb(250, 109, 22)",
+    "rgb(249, 249, 249)",
+    "rgb(12, 84, 96)",
+    "rgb(209, 236, 241)",
+    "rgb(107, 108, 126)",
+    "rgba(0, 55, 103, 0.7)",
+    "rgb(128, 128, 128)",
+    "rgb(240, 240, 240)",
+    "rgb(102, 102, 102)",
+    "rgba(0, 47, 82, 0.7)"
+  ],
+  "layout": {
+    "divs": 521,
+    "inputs": 5,
+    "buttons": 8
+  },
+  "dom_hash": -6862736157444158816,
+  "image_hash": "a0a0e0c3e7ffc3d0",
+  "screenshot": "data/screenshots/kh_main.png",
+  "logo_url": "https://www.kh.hu/o/kh-theme/images/logo.svg",
+  "logo_path": "data/screenshots/kh_main_logo.png",
+  "url": "https://www.kh.hu",
+  "bank": "kh_main",
+  "domain": "kh",
+  "logo_hash": "818199bdbd81c3e7"
+}

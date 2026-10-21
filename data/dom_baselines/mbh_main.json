@@ -1,0 +1,23 @@
+{
+  "url": "https://www.mbhbank.hu",
+  "fingerprint": {
+    "tagCounts": {
+      "html": 1,
+      "head": 1,
+      "title": 1,
+      "body": 1,
+      "center": 1,
+      "h1": 1
+    },
+    "maxDepth": 3,
+    "avgDepth": 1.5,
+    "ariaRoles": [],
+    "formStructures": [],
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "logoCandidate": 0,
+    "scriptCount": 0,
+    "iframeCount": 0,
+    "totalElements": 6
+  }
+}
